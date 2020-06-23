@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - spieler_geschoss
+  - Animation_Kontroller
+  - Animation_Kontroller_Baseball
+  - zombie
+  - baseball
+  - Zombie_Animation_Kontroller
+  - zombie_hand
+  - spieler_bauch
+  - g_geld_1
+  - zombie_kopf
+  - Pistolen_Animation_Kontroller
+  - zombie_bauch
+  - geschoss
+  - zombie_boss_kopf
+  - zombie_boss_bauch
+  - zombie_boss_axt
+  - "zombie_boss_fu\xDF"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - hintergrund
+  - vordergrund
+  - shootable
+  - enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: hintergrund
+    uniqueID: 1354937677
+    locked: 0
+  - name: vodergrund
+    uniqueID: 3866792359
+    locked: 0
+  - name: enemy
+    uniqueID: 2076478285
+    locked: 0
+  - name: spieler
+    uniqueID: 3952396415
+    locked: 0
